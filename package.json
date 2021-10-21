@@ -1,0 +1,14 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "meadowlark project as taught in \"Web development with node and Express\" book",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Brown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
